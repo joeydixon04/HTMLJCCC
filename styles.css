@@ -1,0 +1,55 @@
+/* Joey Dixon Midterm Website */
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0d0d0d;
+    color: #fff;
+}
+
+img {
+width: 500px;
+height: auto;
+padding: 0x;
+ }
+
+#wrapper {
+	width: 75%;
+	margin: auto;
+	background-color: #0d0d0d;
+	padding: 5px; 
+}
+
+header {
+	background-color: #ffffff;
+	color: #0d0d0d;
+	padding: 5px 0;
+    text-align: center;
+    font-size: 25px; 
+}
+
+nav {
+	background: #ffffff;
+	color: #0d0d0d;
+	text-align: center;
+	padding: 5px;
+}
+
+nav ul li {
+	display: inline;
+	margin: 15px;
+}
+
+nav ul li a {
+	color: #0d0d0d;
+}
+
+footer {
+	background-color: #ffffff;
+	color: #0d0d0d;
+	padding: 5px ;
+    text-align: center;
+    font-size: 15px; 
+}
+
